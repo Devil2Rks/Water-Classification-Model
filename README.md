@@ -1,1 +1,1 @@
-# Water-Classification-Model
+# Classification-Model-For-Aerial-Images
